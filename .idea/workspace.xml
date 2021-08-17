@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09704496-08d7-47ab-a206-32517a2ff5bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/test/cookie.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/test/douban_cookie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/test/douban_tv_urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/test/豆瓣电视剧链接.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spider/test" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -88,6 +90,7 @@
       <workItem from="1627179738884" duration="111000" />
       <workItem from="1628004414981" duration="209000" />
       <workItem from="1628698503764" duration="368000" />
+      <workItem from="1629221233072" duration="313000" />
     </task>
     <servers />
   </component>
